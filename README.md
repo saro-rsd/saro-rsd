@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## <h1 align="center">Hi guys, I'm SaRo II :smirk_cat: <br> <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Web Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<hr>
+<p align="center">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saro-rsd=" alt="candida18"  /></p>
 <!--
 **saro-rsd/saro-rsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
