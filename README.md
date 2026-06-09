@@ -13,10 +13,14 @@ Building Skills in Software & Web Development
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saro-rsd&theme=tokyonight" alt="mystreak"/>
  ![SaRo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saro-rsd&theme=tokyonight&layout=compact) 
 
-<div>
- 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
+<br>
 
+<table>
+<tr>
+<td>
+<pre>
+<h4>
+ 
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
@@ -27,7 +31,7 @@ Building Skills in Software & Web Development
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
@@ -39,4 +43,67 @@ Building Skills in Software & Web Development
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-</h4>  </div>
+</h4>  
+</pre>
+</td>
+<td valign="middle">
+ <h2>
+<b>💪Quote || Fact</b> </h2>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=First,+solve+the+problem.;Then,+write+the+code.;Great+Developers+never+stop+learning.)](https://git.io/typing-svg)
+
+</td>
+</tr>
+</table>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+- 🔭 I’m currently working on **Personal projects to improve my frontend and programming fundamentals**
+
+- 🌱 I’m currently learning **Programming languages, web development concepts, and software development fundamentals**
+
+- 👯 I’m looking to collaborate on **Beginner-friendly web development projects and open-source learning projects**
+
+- 🤝 I’m looking for help with **Improving real-world project structure and backend integration**
+
+- 👨‍💻 All of my projects are available at : <p align="down"> <a href="https://github.com/Thivindu2005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
+
+- 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
+
+- 📫 How to reach me : <p align="down"> <a href="mailto:thenujathivindu2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+
+- ⚡ Fun fact **I prefer building skills quietly and consistently**
+
+<h3 align="left">Connect with me:</h3>
+<!-- Social Media -->
+<p align="center">
+  <a href="https://linkedin.com/in/thivindu-thenuja-53400a3aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@Thivindu_Thenuja"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://facebook.com/thivindu.thenuja.3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/_thiviii_s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://tiktok.com/@_thiviii_s"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="middle"> <a <div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div> </a> </p>
+
+ <h3 align="left">Contribution activity:</h3>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
