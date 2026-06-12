@@ -3,7 +3,7 @@
 Building Skills in Software & Web Development
 </h1>
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+	<img src = "https://komarev.com/ghpvc/?username=saro-rsd&style=plastic&color=blueviolet" alt = "Profile Views"/>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1200&color=00F0FF&center=true&vCenter=true&width=900&lines=Trainee+Software+Engineer+at+ICET;Learning+Software+Development;Exploring+Programming+Languages;Building+Projects+and+Skills" />
 </p>
@@ -76,15 +76,18 @@ Building Skills in Software & Web Development
 
 - ⚡ Fun fact **I prefer building skills quietly and consistently**
 
+<h3 align="left"> Learning </h3>
+
+| [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
+|---|---|---|
+
 <h3 align="left">Connect with me:</h3>
 <!-- Social Media -->
 <p align="center">
-  <a href="https://linkedin.com/in/thivindu-thenuja-53400a3aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://youtube.com/@Thivindu_Thenuja"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://facebook.com/thivindu.thenuja.3"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/_thiviii_s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://tiktok.com/@_thiviii_s"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-</p>
+  <a href="https://linkedin.com/in/sarosha-rashmika-8068aa3ab?"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com/18jzV84kU4"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/sr_tszi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="middle"> <a <div align="center">
