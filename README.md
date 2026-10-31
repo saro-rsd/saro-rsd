@@ -5,7 +5,7 @@ Building Skills in Software & Web Development
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=saro-rsd&style=plastic&color=blueviolet" alt = "Profile Views"/>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1200&color=00F0FF&center=true&vCenter=true&width=900&lines=Trainee+Software+Engineer+at+ICET;Learning+Software+Development;Exploring+Programming+Languages;Building+Projects+and+Skills" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1200&color=FFD230&center=true&vCenter=true&width=900&lines=Trainee+Software+Engineer+at+iCET;Learning+Software+Development;Exploring+Programming+Languages;Building+Projects+and+Skills" />
 </p>
 <br>
 
@@ -42,10 +42,11 @@ Building Skills in Software & Web Development
 </td>
 <td valign="middle">
  <h2>
-<b>💪Quote || Fact</b> </h2>
+	💪Quote || Fact
+</h2>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Bold&size=30&color=FFFFFF&center=true&vCenter=true&width=900&height=110&lines=First,+solve+the+problem.;Then,+write+the+code.;Great+Developers+never+stop+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Bold&size=38&color=E1712B&center=true&vCenter=true&width=900&height=110&lines=First,+solve+the+problem.;Then,+write+the+code.;Great+Developers+never+stop+learning.)](https://git.io/typing-svg)
 
 </td>
 </tr>
@@ -61,11 +62,11 @@ Building Skills in Software & Web Development
 
 - 🤝 I’m looking for help with **Improving real-world project structure and backend integration**
 
-- 👨‍💻 All of my projects are available at : <p align="down"> <a href="https://github.com/Thivindu2005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
+- 👨‍💻 All of my projects are available at : <p align="center"> <a href="https://github.com/Thivindu2005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
 
 - 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
 
-- 📫 How to reach me : <p align="down"> <a href="mailto:thenujathivindu2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+- 📫 How to reach me : <p align="center"> <a href="mailto:thenujathivindu2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
 - ⚡ Fun fact **I prefer building skills quietly and consistently**
 
@@ -76,10 +77,3 @@ Building Skills in Software & Web Development
 <p align="center">
   <a href="https://linkedin.com/in/sarosha-rashmika-8068aa3ab?"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  </p>
-
- <h3 align="left">Contribution activity:</h3>
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
