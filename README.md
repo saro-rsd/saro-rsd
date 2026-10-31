@@ -1,9 +1,9 @@
-<a target="_top" href="https://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2026/10/31/flamingtext_com_1793426747_1032547451.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
-<br/>Logo Design by <a href="https://www.flamingtext.com/" >FlamingText.com</a>
-
-<br/>
-Building Skills in Software & Web Development
+<h1 align="center"><a target="_top" href="https://www.flamingtext.com/" >
+	<img src="https://blog.flamingtext.com/blog/2026/10/31/flamingtext_com_1793427013_1032547452.gif" border="0" alt="Sarosha Rashmika" title="Logo Design by FlamingText.com"></a>
 </h1>
+<br/><h2 align="center">
+Building Skills in Software & Web Development
+</h2>
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=saro-rsd&style=plastic&color=blueviolet" alt = "Profile Views"/>
 <p align="center">
