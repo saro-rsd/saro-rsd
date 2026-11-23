@@ -13,7 +13,7 @@
         "height": 90
       },
       "config": {
-        "accentColor": "#88c0d0",
+        "accentColor": "#00ffff",
         "hideBorder": true,
         "backgroundColor": "#060606",
         "animationType": "slide-down",
@@ -45721,7 +45721,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795425371270_wvetm",
-    "updatedAt": "2026-11-23T09:16:15.204Z"
+    "revision": "rev_1795425452049_ugn2v",
+    "updatedAt": "2026-11-23T09:17:35.520Z"
   }
 }
