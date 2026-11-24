@@ -11721,11 +11721,11 @@
       "instanceId": "widget_398bb79b-1acb-49fd-80b0-86c5742286e5",
       "widgetId": "codeweb-showcase-cards",
       "position": {
-        "x": 0,
+        "x": 16,
         "y": 736
       },
       "size": {
-        "width": 800,
+        "width": 768,
         "height": 220
       },
       "config": {
@@ -11778,7 +11778,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795511216900_9d79k",
-    "updatedAt": "2026-11-24T09:06:59.992Z"
+    "revision": "rev_1795511386201_luem5",
+    "updatedAt": "2026-11-24T09:09:49.649Z"
   }
 }
