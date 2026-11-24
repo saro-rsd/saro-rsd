@@ -45586,41 +45586,12 @@
       "instanceId": "widget_1795329303017_3"
     },
     {
-      "instanceId": "widget_032f8359-3dbb-4273-b39d-976295990ae6",
-      "widgetId": "asciiprofile-heatmap",
-      "name": "Asciiprofile-heatmap Widget",
-      "position": {
-        "x": 4,
-        "y": 936
-      },
-      "size": {
-        "width": 792,
-        "height": 240
-      },
-      "config": {
-        "accentColor": "#ffffff",
-        "paletteIndex": 2,
-        "palette": [
-          "#161b22",
-          "#1f2937",
-          "#3b82f6",
-          "#60a5fa",
-          "#93c5fd",
-          "#c084fc"
-        ],
-        "staticMode": false
-      },
-      "locked": true,
-      "visible": true,
-      "zIndex": 9
-    },
-    {
       "instanceId": "widget_0cec5981-f505-4b77-877c-e045c799626c",
       "widgetId": "godprofile-marquee",
       "name": "Godprofile-marquee Widget",
       "position": {
         "x": 0,
-        "y": 834
+        "y": 626
       },
       "size": {
         "width": 800,
@@ -45637,13 +45608,15 @@
           "python",
           "cpp",
           "java",
-          "js"
+          "js",
+          "mysql",
+          "php"
         ],
         "animationType": "slide-left",
         "animationPreviewKey": 2,
         "animationDelay": 2400
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 10
     },
@@ -45653,7 +45626,7 @@
       "name": "Codeweb-social-badge Widget",
       "position": {
         "x": 0,
-        "y": 1528
+        "y": 1148
       },
       "size": {
         "width": 800,
@@ -45663,55 +45636,19 @@
         "platforms": [
           "github",
           "linkedin",
-          "gmail"
+          "gmail",
+          "portfolio"
         ],
         "animationType": "fade-in",
         "animationPreviewKey": 1,
         "animationDuration": 2000,
-        "animationDelay": 3000
+        "animationDelay": 3000,
+        "animationEasing": "linear",
+        "label_github": "",
+        "animSpeed": "14s",
+        "staticMode": false
       },
-      "locked": true,
-      "visible": true,
-      "zIndex": 12
-    },
-    {
-      "instanceId": "widget_f085bf28-63da-49fd-a5b8-0337b72e3290",
-      "widgetId": "surveillance-loadout",
-      "name": "Surveillance-loadout Widget",
-      "position": {
-        "x": 0,
-        "y": 626
-      },
-      "size": {
-        "width": 800,
-        "height": 208
-      },
-      "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Daily Loadout",
-        "secondaryColor": "#c084fc",
-        "ledColor": "#ff5555",
-        "workflow": [
-          "VS Code",
-          "Terminal",
-          "Postman"
-        ],
-        "languages": [
-          "JavaScript",
-          "Java",
-          "react",
-          "my-sql",
-          "python",
-          "C++",
-          "node js",
-          "TypeScript"
-        ],
-        "displayMode": "both",
-        "animationType": "fade-in",
-        "animationPreviewKey": 1,
-        "animationDelay": 2250
-      },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 12
     },
@@ -45738,51 +45675,12 @@
       "zIndex": 12
     },
     {
-      "instanceId": "widget_1b54a46d-ba89-42b6-8190-1a14c3f366dc_0",
-      "widgetId": "ascii-text",
-      "name": "Ascii-text Widget (Cópia)",
-      "position": {
-        "x": 0,
-        "y": 1200
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "customText": "Saro II",
-        "asciiFont": "block",
-        "charSpacing": 1,
-        "fontSize": 12,
-        "charset": "default",
-        "customCharset": "",
-        "asciiLines": [
-          " ▄█████   ▄████▄  ███████▄  ▄████▄       ████████ ████████",
-          "██       ██    ██ ██    ██ ██    ██         ██       ██   ",
-          " ▀████▄  ████████ ███████▀ ██    ██         ██       ██   ",
-          "      ██ ██    ██ ██  ▀██▄ ██    ██         ██       ██   ",
-          "██████▀  ██    ██ ██    ██  ▀████▀       ████████ ████████"
-        ],
-        "accentColor": "#0f1bc2",
-        "detail": "ultra",
-        "cols": 150,
-        "animationType": "fade-in",
-        "animationPreviewKey": 2,
-        "animationDuration": 2000,
-        "animationDelay": 2500,
-        "animationEasing": "linear"
-      },
-      "locked": true,
-      "visible": true,
-      "zIndex": 11
-    },
-    {
       "instanceId": "widget_5375c425-8e8d-4a47-8bf3-2ff87b2282c3_1",
       "widgetId": "bio",
       "name": "Bio Widget (Cópia)",
       "position": {
         "x": 0,
-        "y": 1344
+        "y": 972
       },
       "size": {
         "width": 800,
@@ -45798,9 +45696,58 @@
         "animationDuration": 2000,
         "animationDelay": 2700
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 12
+    },
+    {
+      "instanceId": "widget_398bb79b-1acb-49fd-80b0-86c5742286e5",
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 0,
+        "y": 736
+      },
+      "size": {
+        "width": 800,
+        "height": 220
+      },
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 7,
+        "animationDuration": 2000,
+        "animationDelay": 2700,
+        "animationEasing": "linear"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_ccd0e276-ef58-43c9-a211-573f88c73db0",
+      "widgetId": "codeweb-minimal-badge",
+      "name": "Codeweb-minimal-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 1208
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "animationType": "typewriter",
+        "animationPreviewKey": 2,
+        "animationDuration": 2000,
+        "animationDelay": 3200,
+        "animationEasing": "linear",
+        "backgroundColor": "#060606",
+        "accentColor": "#00ffff",
+        "borderColor": "#f0f0f0"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
     }
   ],
   "globalStyles": {
@@ -45809,7 +45756,7 @@
     "accentColor": "#00ff2a",
     "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
-    "borderRadius": 0,
+    "borderRadius": 3,
     "padding": 24,
     "themeMode": "dark",
     "templateStyle": "native"
@@ -45817,7 +45764,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795508143175_g3mv8",
-    "updatedAt": "2026-11-24T08:15:46.100Z"
+    "revision": "rev_1795510570485_o1sdb",
+    "updatedAt": "2026-11-24T08:56:15.491Z"
   }
 }
