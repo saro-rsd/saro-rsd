@@ -45730,7 +45730,8 @@
       "config": {
         "animationType": "fade-in",
         "animationPreviewKey": 1,
-        "animationDelay": 2200
+        "animationDelay": 2300,
+        "animationEasing": "linear"
       },
       "locked": true,
       "visible": true,
@@ -45816,7 +45817,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795508009230_hx2rn",
-    "updatedAt": "2026-11-24T08:13:32.284Z"
+    "revision": "rev_1795508143175_g3mv8",
+    "updatedAt": "2026-11-24T08:15:46.100Z"
   }
 }
