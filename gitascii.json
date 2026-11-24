@@ -20,7 +20,7 @@
         "animationPreviewKey": 2,
         "animationDuration": 2000
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 1,
       "instanceId": "widget_1795329303017_0"
@@ -45515,7 +45515,7 @@
         "invert": false,
         "borderColor": "#060606"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 2,
       "instanceId": "widget_1795329303017_1"
@@ -45552,7 +45552,7 @@
         "animationDelay": 2000,
         "animationEasing": "linear"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1795329303017_2"
@@ -45565,7 +45565,7 @@
         "y": 402
       },
       "size": {
-        "width": 536,
+        "width": 410,
         "height": 208
       },
       "config": {
@@ -45580,80 +45580,169 @@
         "hideLangsArr": [],
         "hideLangs": ""
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 4,
       "instanceId": "widget_1795329303017_3"
     },
     {
-      "widgetId": "footer",
-      "name": "Footer Widget",
+      "instanceId": "widget_032f8359-3dbb-4273-b39d-976295990ae6",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 4,
+        "y": 936
+      },
+      "size": {
+        "width": 792,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffffff",
+        "paletteIndex": 2,
+        "palette": [
+          "#161b22",
+          "#1f2937",
+          "#3b82f6",
+          "#60a5fa",
+          "#93c5fd",
+          "#c084fc"
+        ],
+        "staticMode": false
+      },
+      "locked": true,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_0cec5981-f505-4b77-877c-e045c799626c",
+      "widgetId": "godprofile-marquee",
+      "name": "Godprofile-marquee Widget",
       "position": {
         "x": 0,
-        "y": 922
+        "y": 834
       },
       "size": {
         "width": 800,
-        "height": 50
+        "height": 94
       },
       "config": {
-        "animationType": "slide-right",
-        "animationPreviewKey": 2,
-        "accentColor": "#ffffff"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1795329303017_4"
-    },
-    {
-      "widgetId": "tech-stack",
-      "name": "Tech-stack Widget",
-      "position": {
-        "x": 544,
-        "y": 402
-      },
-      "size": {
-        "width": 240,
-        "height": 208
-      },
-      "config": {
-        "selectedTechs": [
-          "js",
+        "accentColor": "#060e7f",
+        "marqueeLangs": [
+          "react",
+          "ts",
           "html",
           "css",
-          "py",
-          "java",
-          "php",
-          "cpp",
-          "mysql",
-          "ts",
           "nodejs",
-          "github",
-          "react"
+          "python",
+          "cpp",
+          "java",
+          "js"
         ],
-        "theme": "dark",
-        "perLine": 4,
-        "showTitle": true,
-        "hideDecorations": false,
-        "accentColor": "#c5ff4a",
-        "animationType": "slide-down",
-        "animationPreviewKey": 14,
-        "animationDelay": 2200,
-        "animationEasing": "linear"
+        "animationType": "slide-left",
+        "animationPreviewKey": 2,
+        "animationDelay": 2400
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1795329303017_5"
+      "zIndex": 10
     },
     {
-      "instanceId": "widget_2113f27a-8844-4f82-ac75-40b8faece17a",
-      "widgetId": "ascii-text",
-      "name": "Ascii-text Widget",
+      "instanceId": "widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431",
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 1528
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "github",
+          "linkedin",
+          "gmail"
+        ],
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "animationDuration": 2000,
+        "animationDelay": 3000
+      },
+      "locked": true,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_f085bf28-63da-49fd-a5b8-0337b72e3290",
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
       "position": {
         "x": 0,
         "y": 626
+      },
+      "size": {
+        "width": 800,
+        "height": 208
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Daily Loadout",
+        "secondaryColor": "#c084fc",
+        "ledColor": "#ff5555",
+        "workflow": [
+          "VS Code",
+          "Terminal",
+          "Postman"
+        ],
+        "languages": [
+          "JavaScript",
+          "Java",
+          "react",
+          "my-sql",
+          "python",
+          "C++",
+          "node js",
+          "TypeScript"
+        ],
+        "displayMode": "both",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "animationDelay": 2250
+      },
+      "locked": true,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_89b8f63b-52ef-49e1-a80a-3ab27b1eda1d",
+      "widgetId": "streak-stats",
+      "name": "Streak-stats Widget",
+      "position": {
+        "x": 410,
+        "y": 402
+      },
+      "size": {
+        "width": 390,
+        "height": 208
+      },
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "animationDelay": 2200
+      },
+      "locked": true,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_1b54a46d-ba89-42b6-8190-1a14c3f366dc_0",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget (Cópia)",
+      "position": {
+        "x": 0,
+        "y": 1200
       },
       "size": {
         "width": 800,
@@ -45682,17 +45771,17 @@
         "animationDelay": 2500,
         "animationEasing": "linear"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
-      "zIndex": 7
+      "zIndex": 11
     },
     {
-      "instanceId": "widget_07d2c516-7c83-450e-a5a2-2916356d15db",
+      "instanceId": "widget_5375c425-8e8d-4a47-8bf3-2ff87b2282c3_1",
       "widgetId": "bio",
-      "name": "Bio Widget",
+      "name": "Bio Widget (Cópia)",
       "position": {
         "x": 0,
-        "y": 754
+        "y": 1344
       },
       "size": {
         "width": 800,
@@ -45708,15 +45797,15 @@
         "animationDuration": 2000,
         "animationDelay": 2700
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
-      "zIndex": 8
+      "zIndex": 12
     }
   ],
   "globalStyles": {
     "backgroundColor": "#060606",
     "textColor": "#e5e5e5",
-    "accentColor": "#c5ff4a",
+    "accentColor": "#00ff2a",
     "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
@@ -45727,7 +45816,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795506330753_qwpe4",
-    "updatedAt": "2026-11-24T07:45:33.845Z"
+    "revision": "rev_1795508009230_hx2rn",
+    "updatedAt": "2026-11-24T08:13:32.284Z"
   }
 }
