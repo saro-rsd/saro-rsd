@@ -4,6 +4,7 @@
   <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/saro-rsd/saro-rsd/gitascii/profiles/default/dark.svg" width="100%">
 </picture>
 
+<br><br>
 <p align="center">
   <a href="https://github.com/saro-rsd">
     <img src="https://raw.githubusercontent.com/saro-rsd/saro-rsd/main/assets/btn-github.svg" alt="GitHub" />
