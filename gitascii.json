@@ -45566,17 +45566,19 @@
       },
       "size": {
         "width": 536,
-        "height": 160
+        "height": 208
       },
       "config": {
         "hideBorder": false,
-        "langsCount": 6,
+        "langsCount": 10,
         "langsLayout": "bars",
         "animationType": "fade-in",
         "animationPreviewKey": 7,
         "accentColor": "#ffffff",
         "animationDelay": 2200,
-        "animationEasing": "linear"
+        "animationEasing": "linear",
+        "hideLangsArr": [],
+        "hideLangs": ""
       },
       "locked": false,
       "visible": true,
@@ -45613,7 +45615,7 @@
       },
       "size": {
         "width": 240,
-        "height": 160
+        "height": 184
       },
       "config": {
         "selectedTechs": [
@@ -45624,7 +45626,11 @@
           "java",
           "php",
           "cpp",
-          "mysql"
+          "mysql",
+          "ts",
+          "nodejs",
+          "github",
+          "react"
         ],
         "theme": "dark",
         "perLine": 4,
@@ -45647,7 +45653,7 @@
       "name": "Ascii-text Widget",
       "position": {
         "x": 0,
-        "y": 578
+        "y": 594
       },
       "size": {
         "width": 800,
@@ -45721,7 +45727,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795425452049_ugn2v",
-    "updatedAt": "2026-11-23T09:17:35.520Z"
+    "revision": "rev_1795506202857_azrxm",
+    "updatedAt": "2026-11-24T07:43:25.668Z"
   }
 }
