@@ -11641,37 +11641,6 @@
       "zIndex": 10
     },
     {
-      "instanceId": "widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431",
-      "widgetId": "codeweb-social-badge",
-      "position": {
-        "x": 0,
-        "y": 1148
-      },
-      "size": {
-        "width": 800,
-        "height": 44
-      },
-      "config": {
-        "platforms": [
-          "github",
-          "linkedin",
-          "gmail",
-          "portfolio"
-        ],
-        "animationType": "fade-in",
-        "animationPreviewKey": 1,
-        "animationDuration": 2000,
-        "animationDelay": 3000,
-        "animationEasing": "linear",
-        "label_github": "",
-        "animSpeed": "14s",
-        "staticMode": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 12
-    },
-    {
       "instanceId": "widget_89b8f63b-52ef-49e1-a80a-3ab27b1eda1d",
       "widgetId": "streak-stats",
       "position": {
@@ -11744,7 +11713,7 @@
       "widgetId": "codeweb-minimal-badge",
       "position": {
         "x": 0,
-        "y": 1208
+        "y": 1148
       },
       "size": {
         "width": 800,
@@ -11778,7 +11747,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795511386201_luem5",
-    "updatedAt": "2026-11-24T09:09:49.649Z"
+    "revision": "rev_1795511546441_ooac0",
+    "updatedAt": "2026-11-24T09:12:28.680Z"
   }
 }

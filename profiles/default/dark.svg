@@ -1,5 +1,5 @@
 
-<svg width="800" height="1268" viewBox="0 0 800 1268" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="1208" viewBox="0 0 800 1208" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,7 +29,7 @@
     }
   </style>
 
-  <rect class="" width="800" height="1268" fill="#060606" rx="3" />
+  <rect class="" width="800" height="1208" fill="#060606" rx="3" />
 
   
     <g transform="translate(0, 0)" id="widget-widget_1795329303017_0">
@@ -1043,7 +1043,7 @@
     </g>
   
 
-    <g transform="translate(0, 1208)" id="widget-widget_ccd0e276-ef58-43c9-a211-573f88c73db0">
+    <g transform="translate(0, 1148)" id="widget-widget_ccd0e276-ef58-43c9-a211-573f88c73db0">
 
       
           <style>
@@ -1078,205 +1078,6 @@
   
           </g>
         
-  
-    </g>
-  
-
-    <g transform="translate(0, 1148)" id="widget-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431">
-
-      
-        <style>
-          @keyframes svg-fade-in-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431-1 {
-            from { opacity: 0; }
-            to { opacity: 1; }
-          }
-          @keyframes svg-slide-up-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431-1 {
-            from { opacity: 0; transform: translateY(8px); }
-            to { opacity: 1; transform: translateY(0); }
-          }
-          @keyframes svg-slide-down-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431-1 {
-            from { opacity: 0; transform: translateY(-8px); }
-            to { opacity: 1; transform: translateY(0); }
-          }
-          @keyframes svg-slide-left-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431-1 {
-            from { opacity: 0; transform: translateX(12px); }
-            to { opacity: 1; transform: translateX(0); }
-          }
-          @keyframes svg-slide-right-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431-1 {
-            from { opacity: 0; transform: translateX(-12px); }
-            to { opacity: 1; transform: translateX(0); }
-          }
-          @keyframes svg-zoom-in-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431-1 {
-            from { opacity: 0; transform: scale(0.9); }
-            to { opacity: 1; transform: scale(1); }
-          }
-          @keyframes svg-zoom-out-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431-1 {
-            from { opacity: 0; transform: scale(1.1); }
-            to { opacity: 1; transform: scale(1); }
-          }
-          @keyframes svg-flip-x-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431-1 {
-            from { opacity: 0; transform: perspective(400px) rotateX(90deg); }
-            to { opacity: 1; transform: perspective(400px) rotateX(0deg); }
-          }
-          @keyframes svg-flip-y-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431-1 {
-            from { opacity: 0; transform: perspective(400px) rotateY(90deg); }
-            to { opacity: 1; transform: perspective(400px) rotateY(0deg); }
-          }
-          @keyframes svg-glitch-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431-1 {
-            0% { opacity: 0; transform: skewX(10deg); }
-            20% { opacity: 0.8; transform: skewX(-10deg); }
-            40% { opacity: 0.5; transform: skewX(5deg); }
-            60% { opacity: 0.9; transform: skewX(0deg); }
-            100% { opacity: 1; }
-          }
-          @keyframes svg-scan-lines-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431-1 {
-            0% { opacity: 0; clip-path: inset(100% 0 0 0); }
-            100% { opacity: 1; clip-path: inset(0 0 0 0); }
-          }
-
-          #widget-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431 .anim-target {
-            animation-name: svg-fade-in-widget_aa35ecc2-c70a-4fdc-b17c-50a8efc6c431-1;
-            animation-duration: 2000ms;
-            animation-timing-function: linear;
-            animation-fill-mode: both;
-          }
-        </style>
-      
-      
-      
-      
-      
-    <svg width="800" height="44" viewBox="0 0 800 48" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        
-    <linearGradient id="grad-pill-github-138-2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"></stop>
-<stop offset="10%" stop-color="#111111"></stop>
-<stop offset="50%" stop-color="#eeeeee"></stop>
-<stop offset="60%" stop-color="#ffffff"></stop>
-<stop offset="80%" stop-color="#111111"></stop>
-<stop offset="100%" stop-color="#555555"></stop>
-      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="14s" repeatCount="indefinite" />
-    </linearGradient>
-  
-
-    <linearGradient id="grad-pill-linkedin-252-2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"></stop>
-<stop offset="10%" stop-color="#111111"></stop>
-<stop offset="50%" stop-color="#eeeeee"></stop>
-<stop offset="60%" stop-color="#0A66C2"></stop>
-<stop offset="80%" stop-color="#111111"></stop>
-<stop offset="100%" stop-color="#555555"></stop>
-      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="14s" repeatCount="indefinite" />
-    </linearGradient>
-  
-
-    <linearGradient id="grad-pill-gmail-382-2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"></stop>
-<stop offset="10%" stop-color="#111111"></stop>
-<stop offset="50%" stop-color="#eeeeee"></stop>
-<stop offset="60%" stop-color="#EA4335"></stop>
-<stop offset="80%" stop-color="#111111"></stop>
-<stop offset="100%" stop-color="#555555"></stop>
-      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="14s" repeatCount="indefinite" />
-    </linearGradient>
-  
-
-    <linearGradient id="grad-pill-portfolio-488-2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"></stop>
-<stop offset="10%" stop-color="#111111"></stop>
-<stop offset="50%" stop-color="#eeeeee"></stop>
-<stop offset="60%" stop-color="#10B981"></stop>
-<stop offset="80%" stop-color="#111111"></stop>
-<stop offset="100%" stop-color="#555555"></stop>
-      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="14s" repeatCount="indefinite" />
-    </linearGradient>
-  
-      </defs>
-      <g>
-        
-    <g id="pill-github-138-2">
-      <!-- Outer rotating gradient border -->
-      <rect x="138" y="2" width="102" height="44" rx="22" ry="22" fill="none" stroke="url(#grad-pill-github-138-2)" stroke-width="1.8" />
-
-      <!-- Dark container background with subtle glow -->
-      <rect class="anim-target" x="139" y="3" width="100" height="42" rx="21" ry="21" fill="#141414"  style="animation-delay: 3000ms; transform-origin: center;" />
-
-      <!-- Inner highlight layer -->
-      <rect class="anim-target" x="139" y="3" width="100" height="42" rx="21" ry="21" fill="rgba(255,255,255,0.03)"  style="animation-delay: 3027ms; transform-origin: center;" />
-
-      <!-- Icon & Text Content -->
-      <g transform="translate(152, 15) scale(1)">
-        <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
-          <path class="anim-target" fill="#ffffff" fill-rule="evenodd" clip-rule="evenodd" d="M9 1.5C4.858 1.5 1.5 4.858 1.5 9c0 3.314 2.149 6.126 5.13 7.12.375.068.513-.163.513-.361v-1.266c-2.087.454-2.527-.946-2.527-.946-.341-.867-.833-1.098-.833-1.098-.681-.466.052-.456.052-.456.753.053 1.15.773 1.15.773.67 1.147 1.756.816 2.184.624.068-.485.262-.816.476-1.003-1.666-.19-3.418-.833-3.418-3.708 0-.819.292-1.488.773-2.013-.078-.19-.335-.952.073-1.986 0 0 .63-.202 2.063.769.598-.166 1.24-.249 1.878-.252.637.003 1.279.086 1.878.252 1.432-.971 2.061-.769 2.061-.769.41 1.034.153 1.796.075 1.986.482.525.772 1.194.772 2.013 0 2.883-1.755 3.515-3.426 3.702.27.233.51.691.51 1.393v2.065c0 .201.136.433.517.359C14.354 15.122 16.5 12.312 16.5 9c0-4.142-3.358-7.5-7.5-7.5z" style="animation-delay: 3055ms; transform-origin: center;" />
-        </svg>
-      </g>
-      <text class="anim-target" x="178" y="29" text-anchor="start" fill="#f5f5f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0.2" style="animation-delay: 3082ms; transform-origin: center;">GitHub</text>
-    </g>
-  
-
-    <g id="pill-linkedin-252-2">
-      <!-- Outer rotating gradient border -->
-      <rect x="252" y="2" width="118" height="44" rx="22" ry="22" fill="none" stroke="url(#grad-pill-linkedin-252-2)" stroke-width="1.8" />
-
-      <!-- Dark container background with subtle glow -->
-      <rect class="anim-target" x="253" y="3" width="116" height="42" rx="21" ry="21" fill="#002244"  style="animation-delay: 3109ms; transform-origin: center;" />
-
-      <!-- Inner highlight layer -->
-      <rect class="anim-target" x="253" y="3" width="116" height="42" rx="21" ry="21" fill="rgba(255,255,255,0.03)"  style="animation-delay: 3136ms; transform-origin: center;" />
-
-      <!-- Icon & Text Content -->
-      <g transform="translate(266, 15) scale(1)">
-        <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
-          <path class="anim-target" fill="#0A66C2" d="M2.5 3.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm-1.5 2h3v11h-3v-11zm5 0h2.9v1.5h.1c.4-.8 1.4-1.7 3-1.7 3.2 0 3.8 2.1 3.8 4.8v6.4h-3v-5.7c0-1.4 0-3.1-1.9-3.1s-2.2 1.5-2.2 3v5.8h-3v-11z" style="animation-delay: 3164ms; transform-origin: center;" />
-        </svg>
-      </g>
-      <text class="anim-target" x="292" y="29" text-anchor="start" fill="#f5f5f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0.2" style="animation-delay: 3191ms; transform-origin: center;">LinkedIn</text>
-    </g>
-  
-
-    <g id="pill-gmail-382-2">
-      <!-- Outer rotating gradient border -->
-      <rect x="382" y="2" width="94" height="44" rx="22" ry="22" fill="none" stroke="url(#grad-pill-gmail-382-2)" stroke-width="1.8" />
-
-      <!-- Dark container background with subtle glow -->
-      <rect class="anim-target" x="383" y="3" width="92" height="42" rx="21" ry="21" fill="#331010"  style="animation-delay: 3218ms; transform-origin: center;" />
-
-      <!-- Inner highlight layer -->
-      <rect class="anim-target" x="383" y="3" width="92" height="42" rx="21" ry="21" fill="rgba(255,255,255,0.03)"  style="animation-delay: 3245ms; transform-origin: center;" />
-
-      <!-- Icon & Text Content -->
-      <g transform="translate(396, 15) scale(1)">
-        <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
-          <path class="anim-target" fill="#EA4335" d="M1.5 4.5v9a1.5 1.5 0 0 0 1.5 1.5h1.5V8.25L9 11.25l4.5-3v6.75H15a1.5 1.5 0 0 0 1.5-1.5v-9L9 8.25 1.5 4.5z" style="animation-delay: 3273ms; transform-origin: center;" /><path class="anim-target" fill="#FBBC05" d="M16.5 4.5V3A1.5 1.5 0 0 0 15 1.5h-1.5L9 4.5l4.5 3.75 3-3.75z" style="animation-delay: 3300ms; transform-origin: center;" /><path class="anim-target" fill="#4285F4" d="M1.5 4.5l3 3.75L9 4.5 4.5 1.5H3A1.5 1.5 0 0 0 1.5 3v1.5z" style="animation-delay: 3327ms; transform-origin: center;" />
-        </svg>
-      </g>
-      <text class="anim-target" x="422" y="29" text-anchor="start" fill="#f5f5f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0.2" style="animation-delay: 3355ms; transform-origin: center;">Gmail</text>
-    </g>
-  
-
-    <g id="pill-portfolio-488-2">
-      <!-- Outer rotating gradient border -->
-      <rect x="488" y="2" width="174" height="44" rx="22" ry="22" fill="none" stroke="url(#grad-pill-portfolio-488-2)" stroke-width="1.8" />
-
-      <!-- Dark container background with subtle glow -->
-      <rect class="anim-target" x="489" y="3" width="172" height="42" rx="21" ry="21" fill="#0f241d"  style="animation-delay: 3382ms; transform-origin: center;" />
-
-      <!-- Inner highlight layer -->
-      <rect class="anim-target" x="489" y="3" width="172" height="42" rx="21" ry="21" fill="rgba(255,255,255,0.03)"  style="animation-delay: 3409ms; transform-origin: center;" />
-
-      <!-- Icon & Text Content -->
-      <g transform="translate(502, 15) scale(1)">
-        <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
-          <path class="anim-target" fill="#10B981" d="M9 1.5a7.5 7.5 0 1 0 0 15 7.5 7.5 0 0 0 0-15zm-5.9 7h3.1c.1-1.3.4-2.5.8-3.6-1.8.8-3.2 2-3.9 3.6zm3.1 2H3.1c.7 1.6 2.1 2.8 3.9 3.6-.4-1.1-.7-2.3-.8-3.6zm1.8 0h2c-.1 1.2-.4 2.2-.8 3-.4-.8-.7-1.8-.8-3zm0-2h2c-.1-1.2-.4-2.2-.8-3-.4.8-.7 1.8-.8 3zm4.9-2h-3.1c-.1-1.3-.4-2.5-.8-3.6 1.8.8 3.2 2 3.9 3.6zm-3.1 4h3.1c-.7 1.6-2.1 2.8-3.9 3.6.4-1.1.7-2.3.8-3.6z" style="animation-delay: 3436ms; transform-origin: center;" />
-        </svg>
-      </g>
-      <text class="anim-target" x="528" y="29" text-anchor="start" fill="#f5f5f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0.2" style="animation-delay: 3464ms; transform-origin: center;">Portfolio / Web</text>
-    </g>
-  
-      </g>
-    </svg>
-  
   
     </g>
   
