@@ -45590,7 +45590,7 @@
       "name": "Footer Widget",
       "position": {
         "x": 0,
-        "y": 890
+        "y": 922
       },
       "size": {
         "width": 800,
@@ -45615,7 +45615,7 @@
       },
       "size": {
         "width": 240,
-        "height": 184
+        "height": 208
       },
       "config": {
         "selectedTechs": [
@@ -45653,7 +45653,7 @@
       "name": "Ascii-text Widget",
       "position": {
         "x": 0,
-        "y": 594
+        "y": 626
       },
       "size": {
         "width": 800,
@@ -45674,8 +45674,8 @@
           "██████▀  ██    ██ ██    ██  ▀████▀       ████████ ████████"
         ],
         "accentColor": "#0f1bc2",
-        "detail": "high",
-        "cols": 85,
+        "detail": "ultra",
+        "cols": 150,
         "animationType": "fade-in",
         "animationPreviewKey": 2,
         "animationDuration": 2000,
@@ -45692,7 +45692,7 @@
       "name": "Bio Widget",
       "position": {
         "x": 0,
-        "y": 714
+        "y": 754
       },
       "size": {
         "width": 800,
@@ -45727,7 +45727,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795506202857_azrxm",
-    "updatedAt": "2026-11-24T07:43:25.668Z"
+    "revision": "rev_1795506330753_qwpe4",
+    "updatedAt": "2026-11-24T07:45:33.845Z"
   }
 }
