@@ -11575,7 +11575,7 @@
         "animationDelay": 2000,
         "animationEasing": "linear"
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 3
     },
@@ -11747,7 +11747,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795511546441_ooac0",
-    "updatedAt": "2026-11-24T09:12:28.680Z"
+    "revision": "rev_1795850716750_yedl5",
+    "updatedAt": "2026-11-28T07:25:20.437Z"
   }
 }
