@@ -11547,7 +11547,7 @@
       "instanceId": "widget_1795329303017_2",
       "widgetId": "terminal-info",
       "position": {
-        "x": 296,
+        "x": 294,
         "y": 106
       },
       "size": {
@@ -11747,7 +11747,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795850716750_yedl5",
-    "updatedAt": "2026-11-28T07:25:20.437Z"
+    "revision": "rev_1795850945786_n7f80",
+    "updatedAt": "2026-11-28T07:29:09.311Z"
   }
 }
